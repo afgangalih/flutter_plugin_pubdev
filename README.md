@@ -5,7 +5,7 @@
 Project ini merupakan hasil praktikum mata kuliah *Pemrograman Mobile* dengan tujuan mempelajari cara menambahkan dan menggunakan **plugin dari pub.dev** ke dalam project Flutter.
 Plugin yang digunakan adalah [`auto_size_text`](https://pub.dev/packages/auto_size_text), yang berfungsi untuk menyesuaikan ukuran teks secara otomatis agar sesuai dengan batas ruang (*container*) yang tersedia.
 
-Repository: [https://github.com/username/flutter_plugin_pubdev](https://github.com/username/flutter_plugin_pubdev)
+Repository: [https://github.com/afgangalih/flutter_plugin_pubdev](https://github.com/afgangalih/flutter_plugin_pubdev)
 
 ---
 
@@ -24,7 +24,7 @@ Repository: [https://github.com/username/flutter_plugin_pubdev](https://github.c
 
 Berikut hasil tampilan saat aplikasi dijalankan:
 
-![Screenshot Hasil](langkah7.png)
+![Screenshot Hasil](images/langkah7.png)
 
 Keterangan:
 
