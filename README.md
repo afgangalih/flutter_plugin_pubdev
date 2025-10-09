@@ -104,6 +104,3 @@ Dari praktikum ini, dapat dipahami bahwa:
 
 **Dibuat oleh:**
 🧑‍💻 _Afgan Galih Fauz Amjad Amadinah - 2341760004_
-
-**Absensi:**
-9 Oktober
