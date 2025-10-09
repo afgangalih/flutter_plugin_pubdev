@@ -2,8 +2,8 @@
 
 ## 📘 Deskripsi Singkat
 
-Project ini merupakan hasil praktikum mata kuliah *Pemrograman Mobile* dengan tujuan mempelajari cara menambahkan dan menggunakan **plugin dari pub.dev** ke dalam project Flutter.
-Plugin yang digunakan adalah [`auto_size_text`](https://pub.dev/packages/auto_size_text), yang berfungsi untuk menyesuaikan ukuran teks secara otomatis agar sesuai dengan batas ruang (*container*) yang tersedia.
+Project ini merupakan hasil praktikum mata kuliah _Pemrograman Mobile_ dengan tujuan mempelajari cara menambahkan dan menggunakan **plugin dari pub.dev** ke dalam project Flutter.
+Plugin yang digunakan adalah [`auto_size_text`](https://pub.dev/packages/auto_size_text), yang berfungsi untuk menyesuaikan ukuran teks secara otomatis agar sesuai dengan batas ruang (_container_) yang tersedia.
 
 Repository: [https://github.com/afgangalih/flutter_plugin_pubdev](https://github.com/afgangalih/flutter_plugin_pubdev)
 
@@ -28,8 +28,8 @@ Berikut hasil tampilan saat aplikasi dijalankan:
 
 Keterangan:
 
-* Container **kuning** menggunakan widget `RedTextWidget` dengan teks berwarna merah yang otomatis menyesuaikan ukuran.
-* Container **hijau** menggunakan widget `Text` biasa untuk pembanding.
+- Container **kuning** menggunakan widget `RedTextWidget` dengan teks berwarna merah yang otomatis menyesuaikan ukuran.
+- Container **hijau** menggunakan widget `Text` biasa untuk pembanding.
 
 ---
 
@@ -96,12 +96,14 @@ Berikut beberapa parameter penting dari plugin `auto_size_text` beserta fungsiny
 
 Dari praktikum ini, dapat dipahami bahwa:
 
-* Plugin dari pub.dev dapat memperluas kemampuan Flutter tanpa harus membuat kode dari nol.
-* `auto_size_text` sangat berguna untuk tampilan responsif dan efisien.
-* Penting untuk memahami parameter yang ada agar teks tampil optimal di berbagai ukuran layar.
+- Plugin dari pub.dev dapat memperluas kemampuan Flutter tanpa harus membuat kode dari nol.
+- `auto_size_text` sangat berguna untuk tampilan responsif dan efisien.
+- Penting untuk memahami parameter yang ada agar teks tampil optimal di berbagai ukuran layar.
 
 ---
 
 **Dibuat oleh:**
-🧑‍💻 *Afgan Galih Fauz Amjad Amadinah - 2341760004*
+🧑‍💻 _Afgan Galih Fauz Amjad Amadinah - 2341760004_
 
+**Dibuat oleh:**
+absen: 9 oktober
